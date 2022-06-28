@@ -1,6 +1,6 @@
-Automation clase uno
+Automation clase uno.
 
-Consiste en realizar una breve prueba automatizada.
+Consiste en realizar una breve prueba automatizada con Python y Selenium.
 
 Pre-condiciones:
 
